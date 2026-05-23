@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "topic": "стосунки",
+    "normal": "Which gift looks romantic in a club?",
+    "impostor": "Which gift looks suspicious after three dates?"
+  },
+  {
+    "id": 2,
+    "topic": "стосунки",
+    "normal": "Which gift looks suspicious after three dates?",
+    "impostor": "Which gift looks romantic in a club?"
+  },
+  {
+    "id": 3,
+    "topic": "флірт",
+    "normal": "What people hide from their partner in a club?",
+    "impostor": "What people hide from friends on Tinder?"
+  },
+  {
+    "id": 4,
+    "topic": "флірт",
+    "normal": "What people hide from friends on Tinder?",
+    "impostor": "What people hide from their partner in a club?"
+  },
+  {
+    "id": 5,
+    "topic": "флірт",
+    "normal": "What works best on a first date on vacation?",
+    "impostor": "What most often ruins a first date for adults?"
+  },
+  {
+    "id": 6,
+    "topic": "флірт",
+    "normal": "What most often ruins a first date for adults?",
+    "impostor": "What works best on a first date on vacation?"
+  },
+  {
+    "id": 7,
+    "topic": "ревнощі",
+    "normal": "Which song fits a date on Tinder?",
+    "impostor": "Which song fits a breakup in a serious relationship?"
+  },
+  {
+    "id": 8,
+    "topic": "ревнощі",
+    "normal": "Which song fits a breakup in a serious relationship?",
+    "impostor": "Which song fits a date on Tinder?"
+  },
+  {
+    "id": 9,
+    "topic": "гроші",
+    "normal": "What looks like a sign of wealth in long-term relationships?",
+    "impostor": "What looks like a financial disaster for adults?"
+  },
+  {
+    "id": 10,
+    "topic": "гроші",
+    "normal": "What looks like a financial disaster for adults?",
+    "impostor": "What looks like a sign of wealth in long-term relationships?"
+  },
+  {
+    "id": 11,
+    "topic": "побачення",
+    "normal": "What makes a person desirable?",
+    "impostor": "What makes a person suspicious after three dates?"
+  },
+  {
+    "id": 12,
+    "topic": "побачення",
+    "normal": "What makes a person suspicious after three dates?",
+    "impostor": "What makes a person desirable?"
+  },
+  {
+    "id": 13,
+    "topic": "секс",
+    "normal": "Which partner habit is very cute in a club?",
+    "impostor": "Which partner habit is very annoying?"
+  },
+  {
+    "id": 14,
+    "topic": "секс",
+    "normal": "Which partner habit is very annoying?",
+    "impostor": "Which partner habit is very cute in a club?"
+  },
+  {
+    "id": 15,
+    "topic": "вечірки",
+    "normal": "Which movie looks romantic in a club?",
+    "impostor": "Which movie looks toxic?"
+  },
+  {
+    "id": 16,
+    "topic": "вечірки",
+    "normal": "Which movie looks toxic?",
+    "impostor": "Which movie looks romantic in a club?"
+  },
+  {
+    "id": 17,
+    "topic": "колишні",
+    "normal": "What looks like a sign of wealth for adults?",
+    "impostor": "What looks like a financial disaster at 22 years old?"
+  },
+  {
+    "id": 18,
+    "topic": "колишні",
+    "normal": "What looks like a financial disaster at 22 years old?",
+    "impostor": "What looks like a sign of wealth for adults?"
+  },
+  {
+    "id": 19,
+    "topic": "гроші",
+    "normal": "Which phrase sounds sexy at 22 years old?",
+    "impostor": "Which phrase sounds like a lie in long-term relationships?"
+  },
+  {
+    "id": 20,
+    "topic": "гроші",
+    "normal": "Which phrase sounds like a lie in long-term relationships?",
+    "impostor": "Which phrase sounds sexy at 22 years old?"
+  },
+  {
+    "id": 21,
+    "topic": "флірт",
+    "normal": "What looks like a sign of wealth on vacation?",
+    "impostor": "What looks like a financial disaster for adults?"
+  },
+  {
+    "id": 22,
+    "topic": "флірт",
+    "normal": "What looks like a financial disaster for adults?",
+    "impostor": "What looks like a sign of wealth on vacation?"
+  },
+  {
+    "id": 23,
+    "topic": "побачення",
+    "normal": "Which smell is the sexiest in long-term relationships?",
+    "impostor": "Which smell is the hardest to forget on Tinder?"
+  },
+  {
+    "id": 24,
+    "topic": "побачення",
+    "normal": "Which smell is the hardest to forget on Tinder?",
+    "impostor": "Which smell is the sexiest in long-term relationships?"
+  },
+  {
+    "id": 25,
+    "topic": "пристрасть",
+    "normal": "What looks like a sign of wealth after three dates?",
+    "impostor": "What looks like a financial disaster in long-term relationships?"
+  },
+  {
+    "id": 26,
+    "topic": "пристрасть",
+    "normal": "What looks like a financial disaster in long-term relationships?",
+    "impostor": "What looks like a sign of wealth after three dates?"
+  },
+  {
+    "id": 27,
+    "topic": "секс",
+    "normal": "What makes a person desirable in a club?",
+    "impostor": "What makes a person suspicious in long-term relationships?"
+  },
+  {
+    "id": 28,
+    "topic": "секс",
+    "normal": "What makes a person suspicious in long-term relationships?",
+    "impostor": "What makes a person desirable in a club?"
+  },
+  {
+    "id": 29,
+    "topic": "вечірки",
+    "normal": "Which partner habit is very cute?",
+    "impostor": "Which partner habit is very annoying on vacation?"
+  },
+  {
+    "id": 30,
+    "topic": "вечірки",
+    "normal": "Which partner habit is very annoying on vacation?",
+    "impostor": "Which partner habit is very cute?"
+  },
+  {
+    "id": 31,
+    "topic": "колишні",
+    "normal": "Which song fits a date after three dates?",
+    "impostor": "Which song fits a breakup?"
+  },
+  {
+    "id": 32,
+    "topic": "колишні",
+    "normal": "Which song fits a breakup?",
+    "impostor": "Which song fits a date after three dates?"
+  },
+  {
+    "id": 33,
+    "topic": "колишні",
+    "normal": "What looks like a sign of wealth at 22 years old?",
+    "impostor": "What looks like a financial disaster in a club?"
+  },
+  {
+    "id": 34,
+    "topic": "колишні",
+    "normal": "What looks like a financial disaster in a club?",
+    "impostor": "What looks like a sign of wealth at 22 years old?"
+  },
+  {
+    "id": 35,
+    "topic": "секс",
+    "normal": "Which phrase sounds sexy after three dates?",
+    "impostor": "Which phrase sounds like a lie for adults?"
+  },
+  {
+    "id": 36,
+    "topic": "секс",
+    "normal": "Which phrase sounds like a lie for adults?",
+    "impostor": "Which phrase sounds sexy after three dates?"
+  },
+  {
+    "id": 37,
+    "topic": "ревнощі",
+    "normal": "Which movie looks romantic on Tinder?",
+    "impostor": "Which movie looks toxic in long-term relationships?"
+  },
+  {
+    "id": 38,
+    "topic": "ревнощі",
+    "normal": "Which movie looks toxic in long-term relationships?",
+    "impostor": "Which movie looks romantic on Tinder?"
+  },
+  {
+    "id": 39,
+    "topic": "побачення",
+    "normal": "What sounds like good flirting on vacation?",
+    "impostor": "What sounds like a bad pickup line in a serious relationship?"
+  },
+  {
+    "id": 40,
+    "topic": "побачення",
+    "normal": "What sounds like a bad pickup line in a serious relationship?",
+    "impostor": "What sounds like good flirting on vacation?"
+  },
+  {
+    "id": 41,
+    "topic": "стосунки",
+    "normal": "Which partner habit is very cute on vacation?",
+    "impostor": "Which partner habit is very annoying?"
+  },
+  {
+    "id": 42,
+    "topic": "стосунки",
+    "normal": "Which partner habit is very annoying?",
+    "impostor": "Which partner habit is very cute on vacation?"
+  },
+  {
+    "id": 43,
+    "topic": "стосунки",
+    "normal": "Which phrase sounds sexy after a party?",
+    "impostor": "Which phrase sounds like a lie?"
+  },
+  {
+    "id": 44,
+    "topic": "стосунки",
+    "normal": "Which phrase sounds like a lie?",
+    "impostor": "Which phrase sounds sexy after a party?"
+  },
+  {
+    "id": 45,
+    "topic": "гроші",
+    "normal": "What trait makes a person sexy in a serious relationship?",
+    "impostor": "What trait makes a person dangerous in relationships in a serious relationship?"
+  },
+  {
+    "id": 46,
+    "topic": "гроші",
+    "normal": "What trait makes a person dangerous in relationships in a serious relationship?",
+    "impostor": "What trait makes a person sexy in a serious relationship?"
+  },
+  {
+    "id": 47,
+    "topic": "гроші",
+    "normal": "What trait makes a person sexy on vacation?",
+    "impostor": "What trait makes a person dangerous in relationships after three dates?"
+  },
+  {
+    "id": 48,
+    "topic": "гроші",
+    "normal": "What trait makes a person dangerous in relationships after three dates?",
+    "impostor": "What trait makes a person sexy on vacation?"
+  },
+  {
+    "id": 49,
+    "topic": "ревнощі",
+    "normal": "Which partner habit is very cute after a party?",
+    "impostor": "Which partner habit is very annoying on Tinder?"
+  },
+  {
+    "id": 50,
+    "topic": "ревнощі",
+    "normal": "Which partner habit is very annoying on Tinder?",
+    "impostor": "Which partner habit is very cute after a party?"
+  },
+  {
+    "id": 51,
+    "topic": "колишні",
+    "normal": "Which profession sounds very sexy on vacation?",
+    "impostor": "Which profession sounds like pure stress in a club?"
+  },
+  {
+    "id": 52,
+    "topic": "колишні",
+    "normal": "Which profession sounds like pure stress in a club?",
+    "impostor": "Which profession sounds very sexy on vacation?"
+  },
+  {
+    "id": 53,
+    "topic": "колишні",
+    "normal": "Which phrase sounds sexy for adults?",
+    "impostor": "Which phrase sounds like a lie in a serious relationship?"
+  },
+  {
+    "id": 54,
+    "topic": "колишні",
+    "normal": "Which phrase sounds like a lie in a serious relationship?",
+    "impostor": "Which phrase sounds sexy for adults?"
+  },
+  {
+    "id": 55,
+    "topic": "ревнощі",
+    "normal": "What people hide from their partner?",
+    "impostor": "What people hide from friends in a club?"
+  },
+  {
+    "id": 56,
+    "topic": "ревнощі",
+    "normal": "What people hide from friends in a club?",
+    "impostor": "What people hide from their partner?"
+  },
+  {
+    "id": 57,
+    "topic": "побачення",
+    "normal": "Which profession sounds very sexy in a club?",
+    "impostor": "Which profession sounds like pure stress on vacation?"
+  },
+  {
+    "id": 58,
+    "topic": "побачення",
+    "normal": "Which profession sounds like pure stress on vacation?",
+    "impostor": "Which profession sounds very sexy in a club?"
+  },
+  {
+    "id": 59,
+    "topic": "пристрасть",
+    "normal": "Which profession sounds very sexy after a party?",
+    "impostor": "Which profession sounds like pure stress at 22 years old?"
+  },
+  {
+    "id": 60,
+    "topic": "пристрасть",
+    "normal": "Which profession sounds like pure stress at 22 years old?",
+    "impostor": "Which profession sounds very sexy after a party?"
+  },
+  {
+    "id": 61,
+    "topic": "вечірки",
+    "normal": "Which phrase sounds sexy in long-term relationships?",
+    "impostor": "Which phrase sounds like a lie at 22 years old?"
+  },
+  {
+    "id": 62,
+    "topic": "вечірки",
+    "normal": "Which phrase sounds like a lie at 22 years old?",
+    "impostor": "Which phrase sounds sexy in long-term relationships?"
+  },
+  {
+    "id": 63,
+    "topic": "колишні",
+    "normal": "Which partner habit is very cute in a serious relationship?",
+    "impostor": "Which partner habit is very annoying at 22 years old?"
+  },
+  {
+    "id": 64,
+    "topic": "колишні",
+    "normal": "Which partner habit is very annoying at 22 years old?",
+    "impostor": "Which partner habit is very cute in a serious relationship?"
+  },
+  {
+    "id": 65,
+    "topic": "секс",
+    "normal": "Which smell is the sexiest on Tinder?",
+    "impostor": "Which smell is the hardest to forget on Tinder?"
+  },
+  {
+    "id": 66,
+    "topic": "секс",
+    "normal": "Which smell is the hardest to forget on Tinder?",
+    "impostor": "Which smell is the sexiest on Tinder?"
+  },
+  {
+    "id": 67,
+    "topic": "пристрасть",
+    "normal": "What looks like a sign of wealth in long-term relationships?",
+    "impostor": "What looks like a financial disaster at 22 years old?"
+  },
+  {
+    "id": 68,
+    "topic": "пристрасть",
+    "normal": "What looks like a financial disaster at 22 years old?",
+    "impostor": "What looks like a sign of wealth in long-term relationships?"
+  },
+  {
+    "id": 69,
+    "topic": "стосунки",
+    "normal": "Which gift looks romantic at 22 years old?",
+    "impostor": "Which gift looks suspicious?"
+  },
+  {
+    "id": 70,
+    "topic": "стосунки",
+    "normal": "Which gift looks suspicious?",
+    "impostor": "Which gift looks romantic at 22 years old?"
+  },
+  {
+    "id": 71,
+    "topic": "вечірки",
+    "normal": "What sounds like good flirting?",
+    "impostor": "What sounds like a bad pickup line?"
+  },
+  {
+    "id": 72,
+    "topic": "вечірки",
+    "normal": "What sounds like a bad pickup line?",
+    "impostor": "What sounds like good flirting?"
+  },
+  {
+    "id": 73,
+    "topic": "колишні",
+    "normal": "Which place is perfect for a date after three dates?",
+    "impostor": "Which place is perfect for a breakup on Tinder?"
+  },
+  {
+    "id": 74,
+    "topic": "колишні",
+    "normal": "Which place is perfect for a breakup on Tinder?",
+    "impostor": "Which place is perfect for a date after three dates?"
+  },
+  {
+    "id": 75,
+    "topic": "колишні",
+    "normal": "Which smell is the sexiest on Tinder?",
+    "impostor": "Which smell is the hardest to forget?"
+  },
+  {
+    "id": 76,
+    "topic": "колишні",
+    "normal": "Which smell is the hardest to forget?",
+    "impostor": "Which smell is the sexiest on Tinder?"
+  },
+  {
+    "id": 77,
+    "topic": "стосунки",
+    "normal": "Which profession sounds very sexy at 22 years old?",
+    "impostor": "Which profession sounds like pure stress in a club?"
+  },
+  {
+    "id": 78,
+    "topic": "стосунки",
+    "normal": "Which profession sounds like pure stress in a club?",
+    "impostor": "Which profession sounds very sexy at 22 years old?"
+  },
+  {
+    "id": 79,
+    "topic": "стосунки",
+    "normal": "Which profession sounds very sexy on Tinder?",
+    "impostor": "Which profession sounds like pure stress for adults?"
+  },
+  {
+    "id": 80,
+    "topic": "стосунки",
+    "normal": "Which profession sounds like pure stress for adults?",
+    "impostor": "Which profession sounds very sexy on Tinder?"
+  },
+  {
+    "id": 81,
+    "topic": "флірт",
+    "normal": "What people hide from their partner at 22 years old?",
+    "impostor": "What people hide from friends after a party?"
+  },
+  {
+    "id": 82,
+    "topic": "флірт",
+    "normal": "What people hide from friends after a party?",
+    "impostor": "What people hide from their partner at 22 years old?"
+  },
+  {
+    "id": 83,
+    "topic": "пристрасть",
+    "normal": "Which movie looks romantic on vacation?",
+    "impostor": "Which movie looks toxic on vacation?"
+  },
+  {
+    "id": 84,
+    "topic": "пристрасть",
+    "normal": "Which movie looks toxic on vacation?",
+    "impostor": "Which movie looks romantic on vacation?"
+  },
+  {
+    "id": 85,
+    "topic": "побачення",
+    "normal": "What sounds like good flirting in a serious relationship?",
+    "impostor": "What sounds like a bad pickup line in long-term relationships?"
+  },
+  {
+    "id": 86,
+    "topic": "побачення",
+    "normal": "What sounds like a bad pickup line in long-term relationships?",
+    "impostor": "What sounds like good flirting in a serious relationship?"
+  },
+  {
+    "id": 87,
+    "topic": "побачення",
+    "normal": "What works best on a first date after three dates?",
+    "impostor": "What most often ruins a first date in a club?"
+  },
+  {
+    "id": 88,
+    "topic": "побачення",
+    "normal": "What most often ruins a first date in a club?",
+    "impostor": "What works best on a first date after three dates?"
+  },
+  {
+    "id": 89,
+    "topic": "ревнощі",
+    "normal": "Which place is perfect for a date?",
+    "impostor": "Which place is perfect for a breakup on Tinder?"
+  },
+  {
+    "id": 90,
+    "topic": "ревнощі",
+    "normal": "Which place is perfect for a breakup on Tinder?",
+    "impostor": "Which place is perfect for a date?"
+  },
+  {
+    "id": 91,
+    "topic": "флірт",
+    "normal": "What works best on a first date?",
+    "impostor": "What most often ruins a first date on Tinder?"
+  },
+  {
+    "id": 92,
+    "topic": "флірт",
+    "normal": "What most often ruins a first date on Tinder?",
+    "impostor": "What works best on a first date?"
+  },
+  {
+    "id": 93,
+    "topic": "флірт",
+    "normal": "Which movie looks romantic on vacation?",
+    "impostor": "Which movie looks toxic in long-term relationships?"
+  },
+  {
+    "id": 94,
+    "topic": "флірт",
+    "normal": "Which movie looks toxic in long-term relationships?",
+    "impostor": "Which movie looks romantic on vacation?"
+  },
+  {
+    "id": 95,
+    "topic": "колишні",
+    "normal": "Which movie looks romantic at 22 years old?",
+    "impostor": "Which movie looks toxic after a party?"
+  },
+  {
+    "id": 96,
+    "topic": "колишні",
+    "normal": "Which movie looks toxic after a party?",
+    "impostor": "Which movie looks romantic at 22 years old?"
+  },
+  {
+    "id": 97,
+    "topic": "колишні",
+    "normal": "What people hide from their partner for adults?",
+    "impostor": "What people hide from friends in long-term relationships?"
+  },
+  {
+    "id": 98,
+    "topic": "колишні",
+    "normal": "What people hide from friends in long-term relationships?",
+    "impostor": "What people hide from their partner for adults?"
+  },
+  {
+    "id": 99,
+    "topic": "побачення",
+    "normal": "Which smell is the sexiest after three dates?",
+    "impostor": "Which smell is the hardest to forget at 22 years old?"
+  },
+  {
+    "id": 100,
+    "topic": "побачення",
+    "normal": "Which smell is the hardest to forget at 22 years old?",
+    "impostor": "Which smell is the sexiest after three dates?"
+  },
+  {
+    "id": 101,
+    "topic": "стосунки",
+    "normal": "Which profession sounds very sexy on Tinder?",
+    "impostor": "Which profession sounds like pure stress after a party?"
+  },
+  {
+    "id": 102,
+    "topic": "стосунки",
+    "normal": "Which profession sounds like pure stress after a party?",
+    "impostor": "Which profession sounds very sexy on Tinder?"
+  },
+  {
+    "id": 103,
+    "topic": "гроші",
+    "normal": "Which partner habit is very cute at 22 years old?",
+    "impostor": "Which partner habit is very annoying after three dates?"
+  },
+  {
+    "id": 104,
+    "topic": "гроші",
+    "normal": "Which partner habit is very annoying after three dates?",
+    "impostor": "Which partner habit is very cute at 22 years old?"
+  },
+  {
+    "id": 105,
+    "topic": "колишні",
+    "normal": "What makes a person desirable after three dates?",
+    "impostor": "What makes a person suspicious in a club?"
+  },
+  {
+    "id": 106,
+    "topic": "колишні",
+    "normal": "What makes a person suspicious in a club?",
+    "impostor": "What makes a person desirable after three dates?"
+  },
+  {
+    "id": 107,
+    "topic": "гроші",
+    "normal": "Which movie looks romantic in a club?",
+    "impostor": "Which movie looks toxic after a party?"
+  },
+  {
+    "id": 108,
+    "topic": "гроші",
+    "normal": "Which movie looks toxic after a party?",
+    "impostor": "Which movie looks romantic in a club?"
+  },
+  {
+    "id": 109,
+    "topic": "флірт",
+    "normal": "What looks like a sign of wealth in a club?",
+    "impostor": "What looks like a financial disaster in a club?"
+  },
+  {
+    "id": 110,
+    "topic": "флірт",
+    "normal": "What looks like a financial disaster in a club?",
+    "impostor": "What looks like a sign of wealth in a club?"
+  },
+  {
+    "id": 111,
+    "topic": "флірт",
+    "normal": "Which gift looks romantic on Tinder?",
+    "impostor": "Which gift looks suspicious on vacation?"
+  },
+  {
+    "id": 112,
+    "topic": "флірт",
+    "normal": "Which gift looks suspicious on vacation?",
+    "impostor": "Which gift looks romantic on Tinder?"
+  },
+  {
+    "id": 113,
+    "topic": "секс",
+    "normal": "Which profession sounds very sexy for adults?",
+    "impostor": "Which profession sounds like pure stress at 22 years old?"
+  },
+  {
+    "id": 114,
+    "topic": "секс",
+    "normal": "Which profession sounds like pure stress at 22 years old?",
+    "impostor": "Which profession sounds very sexy for adults?"
+  },
+  {
+    "id": 115,
+    "topic": "ревнощі",
+    "normal": "Which partner habit is very cute in a serious relationship?",
+    "impostor": "Which partner habit is very annoying in a club?"
+  },
+  {
+    "id": 116,
+    "topic": "ревнощі",
+    "normal": "Which partner habit is very annoying in a club?",
+    "impostor": "Which partner habit is very cute in a serious relationship?"
+  },
+  {
+    "id": 117,
+    "topic": "побачення",
+    "normal": "Which phrase sounds sexy for adults?",
+    "impostor": "Which phrase sounds like a lie at 22 years old?"
+  },
+  {
+    "id": 118,
+    "topic": "побачення",
+    "normal": "Which phrase sounds like a lie at 22 years old?",
+    "impostor": "Which phrase sounds sexy for adults?"
+  },
+  {
+    "id": 119,
+    "topic": "вечірки",
+    "normal": "Which smell is the sexiest?",
+    "impostor": "Which smell is the hardest to forget on vacation?"
+  },
+  {
+    "id": 120,
+    "topic": "вечірки",
+    "normal": "Which smell is the hardest to forget on vacation?",
+    "impostor": "Which smell is the sexiest?"
+  },
+  {
+    "id": 121,
+    "topic": "пристрасть",
+    "normal": "Which movie looks romantic?",
+    "impostor": "Which movie looks toxic in long-term relationships?"
+  },
+  {
+    "id": 122,
+    "topic": "пристрасть",
+    "normal": "Which movie looks toxic in long-term relationships?",
+    "impostor": "Which movie looks romantic?"
+  },
+  {
+    "id": 123,
+    "topic": "стосунки",
+    "normal": "Which phrase sounds sexy in a serious relationship?",
+    "impostor": "Which phrase sounds like a lie on vacation?"
+  },
+  {
+    "id": 124,
+    "topic": "стосунки",
+    "normal": "Which phrase sounds like a lie on vacation?",
+    "impostor": "Which phrase sounds sexy in a serious relationship?"
+  },
+  {
+    "id": 125,
+    "topic": "пристрасть",
+    "normal": "Which partner habit is very cute after a party?",
+    "impostor": "Which partner habit is very annoying at 22 years old?"
+  },
+  {
+    "id": 126,
+    "topic": "пристрасть",
+    "normal": "Which partner habit is very annoying at 22 years old?",
+    "impostor": "Which partner habit is very cute after a party?"
+  },
+  {
+    "id": 127,
+    "topic": "секс",
+    "normal": "Which phrase sounds sexy?",
+    "impostor": "Which phrase sounds like a lie on vacation?"
+  },
+  {
+    "id": 128,
+    "topic": "секс",
+    "normal": "Which phrase sounds like a lie on vacation?",
+    "impostor": "Which phrase sounds sexy?"
+  },
+  {
+    "id": 129,
+    "topic": "стосунки",
+    "normal": "What works best on a first date for adults?",
+    "impostor": "What most often ruins a first date after three dates?"
+  },
+  {
+    "id": 130,
+    "topic": "стосунки",
+    "normal": "What most often ruins a first date after three dates?",
+    "impostor": "What works best on a first date for adults?"
+  },
+  {
+    "id": 131,
+    "topic": "секс",
+    "normal": "Which phrase sounds sexy after a party?",
+    "impostor": "Which phrase sounds like a lie on vacation?"
+  },
+  {
+    "id": 132,
+    "topic": "секс",
+    "normal": "Which phrase sounds like a lie on vacation?",
+    "impostor": "Which phrase sounds sexy after a party?"
+  },
+  {
+    "id": 133,
+    "topic": "флірт",
+    "normal": "What trait makes a person sexy at 22 years old?",
+    "impostor": "What trait makes a person dangerous in relationships on vacation?"
+  },
+  {
+    "id": 134,
+    "topic": "флірт",
+    "normal": "What trait makes a person dangerous in relationships on vacation?",
+    "impostor": "What trait makes a person sexy at 22 years old?"
+  },
+  {
+    "id": 135,
+    "topic": "вечірки",
+    "normal": "What makes a person desirable on vacation?",
+    "impostor": "What makes a person suspicious in long-term relationships?"
+  },
+  {
+    "id": 136,
+    "topic": "вечірки",
+    "normal": "What makes a person suspicious in long-term relationships?",
+    "impostor": "What makes a person desirable on vacation?"
+  },
+  {
+    "id": 137,
+    "topic": "стосунки",
+    "normal": "What trait makes a person sexy for adults?",
+    "impostor": "What trait makes a person dangerous in relationships in a club?"
+  },
+  {
+    "id": 138,
+    "topic": "стосунки",
+    "normal": "What trait makes a person dangerous in relationships in a club?",
+    "impostor": "What trait makes a person sexy for adults?"
+  },
+  {
+    "id": 139,
+    "topic": "вечірки",
+    "normal": "Which profession sounds very sexy in long-term relationships?",
+    "impostor": "Which profession sounds like pure stress on vacation?"
+  },
+  {
+    "id": 140,
+    "topic": "вечірки",
+    "normal": "Which profession sounds like pure stress on vacation?",
+    "impostor": "Which profession sounds very sexy in long-term relationships?"
+  },
+  {
+    "id": 141,
+    "topic": "гроші",
+    "normal": "Which phrase sounds sexy?",
+    "impostor": "Which phrase sounds like a lie in a serious relationship?"
+  },
+  {
+    "id": 142,
+    "topic": "гроші",
+    "normal": "Which phrase sounds like a lie in a serious relationship?",
+    "impostor": "Which phrase sounds sexy?"
+  },
+  {
+    "id": 143,
+    "topic": "колишні",
+    "normal": "What makes a person desirable at 22 years old?",
+    "impostor": "What makes a person suspicious at 22 years old?"
+  },
+  {
+    "id": 144,
+    "topic": "колишні",
+    "normal": "What makes a person suspicious at 22 years old?",
+    "impostor": "What makes a person desirable at 22 years old?"
+  },
+  {
+    "id": 145,
+    "topic": "пристрасть",
+    "normal": "Which movie looks romantic after three dates?",
+    "impostor": "Which movie looks toxic in long-term relationships?"
+  },
+  {
+    "id": 146,
+    "topic": "пристрасть",
+    "normal": "Which movie looks toxic in long-term relationships?",
+    "impostor": "Which movie looks romantic after three dates?"
+  },
+  {
+    "id": 147,
+    "topic": "побачення",
+    "normal": "Which gift looks romantic in a club?",
+    "impostor": "Which gift looks suspicious after a party?"
+  },
+  {
+    "id": 148,
+    "topic": "побачення",
+    "normal": "Which gift looks suspicious after a party?",
+    "impostor": "Which gift looks romantic in a club?"
+  },
+  {
+    "id": 149,
+    "topic": "ревнощі",
+    "normal": "What sounds like good flirting in a club?",
+    "impostor": "What sounds like a bad pickup line?"
+  },
+  {
+    "id": 150,
+    "topic": "ревнощі",
+    "normal": "What sounds like a bad pickup line?",
+    "impostor": "What sounds like good flirting in a club?"
+  },
+  {
+    "id": 151,
+    "topic": "колишні",
+    "normal": "What makes a person desirable after three dates?",
+    "impostor": "What makes a person suspicious for adults?"
+  },
+  {
+    "id": 152,
+    "topic": "колишні",
+    "normal": "What makes a person suspicious for adults?",
+    "impostor": "What makes a person desirable after three dates?"
+  },
+  {
+    "id": 153,
+    "topic": "ревнощі",
+    "normal": "What makes a person desirable at 22 years old?",
+    "impostor": "What makes a person suspicious after three dates?"
+  },
+  {
+    "id": 154,
+    "topic": "ревнощі",
+    "normal": "What makes a person suspicious after three dates?",
+    "impostor": "What makes a person desirable at 22 years old?"
+  },
+  {
+    "id": 155,
+    "topic": "секс",
+    "normal": "Which smell is the sexiest in a club?",
+    "impostor": "Which smell is the hardest to forget in a club?"
+  },
+  {
+    "id": 156,
+    "topic": "секс",
+    "normal": "Which smell is the hardest to forget in a club?",
+    "impostor": "Which smell is the sexiest in a club?"
+  },
+  {
+    "id": 157,
+    "topic": "вечірки",
+    "normal": "Which phrase sounds sexy at 22 years old?",
+    "impostor": "Which phrase sounds like a lie at 22 years old?"
+  },
+  {
+    "id": 158,
+    "topic": "вечірки",
+    "normal": "Which phrase sounds like a lie at 22 years old?",
+    "impostor": "Which phrase sounds sexy at 22 years old?"
+  },
+  {
+    "id": 159,
+    "topic": "колишні",
+    "normal": "What looks like a sign of wealth on vacation?",
+    "impostor": "What looks like a financial disaster after three dates?"
+  },
+  {
+    "id": 160,
+    "topic": "колишні",
+    "normal": "What looks like a financial disaster after three dates?",
+    "impostor": "What looks like a sign of wealth on vacation?"
+  },
+  {
+    "id": 161,
+    "topic": "побачення",
+    "normal": "Which profession sounds very sexy for adults?",
+    "impostor": "Which profession sounds like pure stress in a serious relationship?"
+  },
+  {
+    "id": 162,
+    "topic": "побачення",
+    "normal": "Which profession sounds like pure stress in a serious relationship?",
+    "impostor": "Which profession sounds very sexy for adults?"
+  },
+  {
+    "id": 163,
+    "topic": "пристрасть",
+    "normal": "What sounds like good flirting after three dates?",
+    "impostor": "What sounds like a bad pickup line in a serious relationship?"
+  },
+  {
+    "id": 164,
+    "topic": "пристрасть",
+    "normal": "What sounds like a bad pickup line in a serious relationship?",
+    "impostor": "What sounds like good flirting after three dates?"
+  },
+  {
+    "id": 165,
+    "topic": "ревнощі",
+    "normal": "Which movie looks romantic on Tinder?",
+    "impostor": "Which movie looks toxic after three dates?"
+  },
+  {
+    "id": 166,
+    "topic": "ревнощі",
+    "normal": "Which movie looks toxic after three dates?",
+    "impostor": "Which movie looks romantic on Tinder?"
+  },
+  {
+    "id": 167,
+    "topic": "стосунки",
+    "normal": "Which song fits a date in long-term relationships?",
+    "impostor": "Which song fits a breakup after three dates?"
+  },
+  {
+    "id": 168,
+    "topic": "стосунки",
+    "normal": "Which song fits a breakup after three dates?",
+    "impostor": "Which song fits a date in long-term relationships?"
+  },
+  {
+    "id": 169,
+    "topic": "колишні",
+    "normal": "Which partner habit is very cute on Tinder?",
+    "impostor": "Which partner habit is very annoying after a party?"
+  },
+  {
+    "id": 170,
+    "topic": "колишні",
+    "normal": "Which partner habit is very annoying after a party?",
+    "impostor": "Which partner habit is very cute on Tinder?"
+  },
+  {
+    "id": 171,
+    "topic": "ревнощі",
+    "normal": "Which gift looks romantic?",
+    "impostor": "Which gift looks suspicious in a club?"
+  },
+  {
+    "id": 172,
+    "topic": "ревнощі",
+    "normal": "Which gift looks suspicious in a club?",
+    "impostor": "Which gift looks romantic?"
+  },
+  {
+    "id": 173,
+    "topic": "флірт",
+    "normal": "What people hide from their partner in a serious relationship?",
+    "impostor": "What people hide from friends for adults?"
+  },
+  {
+    "id": 174,
+    "topic": "флірт",
+    "normal": "What people hide from friends for adults?",
+    "impostor": "What people hide from their partner in a serious relationship?"
+  },
+  {
+    "id": 175,
+    "topic": "стосунки",
+    "normal": "Which profession sounds very sexy for adults?",
+    "impostor": "Which profession sounds like pure stress in a club?"
+  },
+  {
+    "id": 176,
+    "topic": "стосунки",
+    "normal": "Which profession sounds like pure stress in a club?",
+    "impostor": "Which profession sounds very sexy for adults?"
+  },
+  {
+    "id": 177,
+    "topic": "вечірки",
+    "normal": "Which profession sounds very sexy on Tinder?",
+    "impostor": "Which profession sounds like pure stress in a serious relationship?"
+  },
+  {
+    "id": 178,
+    "topic": "вечірки",
+    "normal": "Which profession sounds like pure stress in a serious relationship?",
+    "impostor": "Which profession sounds very sexy on Tinder?"
+  },
+  {
+    "id": 179,
+    "topic": "побачення",
+    "normal": "What people hide from their partner after a party?",
+    "impostor": "What people hide from friends on vacation?"
+  },
+  {
+    "id": 180,
+    "topic": "побачення",
+    "normal": "What people hide from friends on vacation?",
+    "impostor": "What people hide from their partner after a party?"
+  },
+  {
+    "id": 181,
+    "topic": "гроші",
+    "normal": "What makes a person desirable for adults?",
+    "impostor": "What makes a person suspicious at 22 years old?"
+  },
+  {
+    "id": 182,
+    "topic": "гроші",
+    "normal": "What makes a person suspicious at 22 years old?",
+    "impostor": "What makes a person desirable for adults?"
+  },
+  {
+    "id": 183,
+    "topic": "флірт",
+    "normal": "What message looks like flirting in long-term relationships?",
+    "impostor": "Яке повідомлення виглядає як маніпуляція у клубі?"
+  },
+  {
+    "id": 184,
+    "topic": "флірт",
+    "normal": "Яке повідомлення виглядає як маніпуляція у клубі?",
+    "impostor": "What message looks like flirting in long-term relationships?"
+  },
+  {
+    "id": 185,
+    "topic": "секс",
+    "normal": "Which place is perfect for a date in a club?",
+    "impostor": "Which place is perfect for a breakup?"
+  },
+  {
+    "id": 186,
+    "topic": "секс",
+    "normal": "Which place is perfect for a breakup?",
+    "impostor": "Which place is perfect for a date in a club?"
+  },
+  {
+    "id": 187,
+    "topic": "секс",
+    "normal": "What trait makes a person sexy on Tinder?",
+    "impostor": "What trait makes a person dangerous in relationships?"
+  },
+  {
+    "id": 188,
+    "topic": "секс",
+    "normal": "What trait makes a person dangerous in relationships?",
+    "impostor": "What trait makes a person sexy on Tinder?"
+  },
+  {
+    "id": 189,
+    "topic": "побачення",
+    "normal": "Which smell is the sexiest?",
+    "impostor": "Which smell is the hardest to forget after a party?"
+  },
+  {
+    "id": 190,
+    "topic": "побачення",
+    "normal": "Which smell is the hardest to forget after a party?",
+    "impostor": "Which smell is the sexiest?"
+  },
+  {
+    "id": 191,
+    "topic": "стосунки",
+    "normal": "Which gift looks romantic after a party?",
+    "impostor": "Which gift looks suspicious for adults?"
+  },
+  {
+    "id": 192,
+    "topic": "стосунки",
+    "normal": "Which gift looks suspicious for adults?",
+    "impostor": "Which gift looks romantic after a party?"
+  },
+  {
+    "id": 193,
+    "topic": "пристрасть",
+    "normal": "Which smell is the sexiest?",
+    "impostor": "Which smell is the hardest to forget after three dates?"
+  },
+  {
+    "id": 194,
+    "topic": "пристрасть",
+    "normal": "Which smell is the hardest to forget after three dates?",
+    "impostor": "Which smell is the sexiest?"
+  },
+  {
+    "id": 195,
+    "topic": "колишні",
+    "normal": "What sounds like good flirting after a party?",
+    "impostor": "What sounds like a bad pickup line after three dates?"
+  },
+  {
+    "id": 196,
+    "topic": "колишні",
+    "normal": "What sounds like a bad pickup line after three dates?",
+    "impostor": "What sounds like good flirting after a party?"
+  },
+  {
+    "id": 197,
+    "topic": "секс",
+    "normal": "Which gift looks romantic?",
+    "impostor": "Which gift looks suspicious after a party?"
+  },
+  {
+    "id": 198,
+    "topic": "секс",
+    "normal": "Which gift looks suspicious after a party?",
+    "impostor": "Which gift looks romantic?"
+  },
+  {
+    "id": 199,
+    "topic": "флірт",
+    "normal": "What makes a person desirable after three dates?",
+    "impostor": "What makes a person suspicious after a party?"
+  },
+  {
+    "id": 200,
+    "topic": "флірт",
+    "normal": "What makes a person suspicious after a party?",
+    "impostor": "What makes a person desirable after three dates?"
+  }
+]
